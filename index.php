@@ -9,7 +9,7 @@
 <body>
 
 <?php
-$age = 12;
+$age = 16;
 
         if (($age <= 15) || ($age >= 65)) {
             $entryfee = 50;
